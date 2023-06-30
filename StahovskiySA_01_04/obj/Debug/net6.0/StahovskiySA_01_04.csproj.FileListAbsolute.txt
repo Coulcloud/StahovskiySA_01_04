@@ -1,0 +1,15 @@
+C:\Users\307-02\Documents\Новая папка\StahovskiySA_01_04\bin\Debug\net6.0\StahovskiySA_01_04.exe
+C:\Users\307-02\Documents\Новая папка\StahovskiySA_01_04\bin\Debug\net6.0\StahovskiySA_01_04.deps.json
+C:\Users\307-02\Documents\Новая папка\StahovskiySA_01_04\bin\Debug\net6.0\StahovskiySA_01_04.runtimeconfig.json
+C:\Users\307-02\Documents\Новая папка\StahovskiySA_01_04\bin\Debug\net6.0\StahovskiySA_01_04.dll
+C:\Users\307-02\Documents\Новая папка\StahovskiySA_01_04\bin\Debug\net6.0\StahovskiySA_01_04.pdb
+C:\Users\307-02\Documents\Новая папка\StahovskiySA_01_04\obj\Debug\net6.0\StahovskiySA_01_04.csproj.AssemblyReference.cache
+C:\Users\307-02\Documents\Новая папка\StahovskiySA_01_04\obj\Debug\net6.0\StahovskiySA_01_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\307-02\Documents\Новая папка\StahovskiySA_01_04\obj\Debug\net6.0\StahovskiySA_01_04.AssemblyInfoInputs.cache
+C:\Users\307-02\Documents\Новая папка\StahovskiySA_01_04\obj\Debug\net6.0\StahovskiySA_01_04.AssemblyInfo.cs
+C:\Users\307-02\Documents\Новая папка\StahovskiySA_01_04\obj\Debug\net6.0\StahovskiySA_01_04.csproj.CoreCompileInputs.cache
+C:\Users\307-02\Documents\Новая папка\StahovskiySA_01_04\obj\Debug\net6.0\StahovskiySA_01_04.dll
+C:\Users\307-02\Documents\Новая папка\StahovskiySA_01_04\obj\Debug\net6.0\refint\StahovskiySA_01_04.dll
+C:\Users\307-02\Documents\Новая папка\StahovskiySA_01_04\obj\Debug\net6.0\StahovskiySA_01_04.pdb
+C:\Users\307-02\Documents\Новая папка\StahovskiySA_01_04\obj\Debug\net6.0\StahovskiySA_01_04.genruntimeconfig.cache
+C:\Users\307-02\Documents\Новая папка\StahovskiySA_01_04\obj\Debug\net6.0\ref\StahovskiySA_01_04.dll
